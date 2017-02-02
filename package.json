@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andela-callen/Inverted-index.git"
+    "url": "git+https://github.com/Andela-callen/inverted_index.git"
   },
   "author": "allen Chinazor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Andela-callen/Inverted-index/issues"
+    "url": "https://github.com/Andela-callen/inverted-index/issues"
   },
-  "homepage": "https://github.com/Andela-callen/Inverted-index#readme"
+  "homepage": "https://github.com/Andela-callen/inverted-index#readme"
 }
